@@ -1,0 +1,22 @@
+# Node.js / React
+node_modules/
+dist/
+.env
+.vite/
+.DS_Store
+
+# Python / Flask
+__pycache__/
+instance/
+*.pyc
+.env
+venv/
+*.db
+
+# Build / system
+*.log
+*.sqlite3
+*.pkl
+
+# VS Code
+.vscode/
